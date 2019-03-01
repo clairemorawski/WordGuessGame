@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+
+    .jumbotron h1  {
+        font-family: 'Roboto Slab', cursive;
+        font-size: 75px;
+        background-color: skyblue;
+        text-align: center
+    }
+
+    .jumbotron h2{
+        font-family: 'Roboto Slab', serif;
+        size: 25px;
+        padding-top: 5px;
+        text-align: center;
+        background-color: skyblue;
+
+    }
+    .jumbotron{
+        background-image: url("https://storage.needpix.com/thumbs/wispy-clouds-2786621_1280.jpg");
+    }
+    .gamecontent {
+        font-family: 'Roboto Slab', serif;
+    }
+
+    .bodycontent {
+        font-family: 'Roboto Slab', serif;
+    }
+
+    body{
+        background-image: url("https://www.bhphotovideo.com/images/images2000x2000/Savage_V01_0920_Infinity_Vinyl_Background_579262.jpg");
